@@ -1,2 +1,0 @@
-﻿  Lab 6.cpp
-c:\users\cristiana\source\repos\lab 6\lab 6\lab 6.cpp(12): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?

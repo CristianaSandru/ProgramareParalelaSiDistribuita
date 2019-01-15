@@ -1,0 +1,7 @@
+﻿  TestingMPI.cpp
+c:\users\cristiana\source\repos\testingmpi\testingmpi\testingmpi.cpp(108): warning C4244: 'initializing': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  TestingMPI.vcxproj -> C:\Users\Cristiana\source\repos\TestingMPI\x64\Debug\TestingMPI.exe
